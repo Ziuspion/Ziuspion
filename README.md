@@ -1,31 +1,73 @@
-# Olá! 👋 Eu sou o Orlando Junior
+<div align="center">
+  <h1>Olá! 👋 Eu sou o Orlando Junior</h1>
+  <h3>Desenvolvedor & Entusiasta de Hardware 🚀</h3>
+  
+  <a href="https://github.com/Ziuspion">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia+e+Hardware;Desenvolvedor+Back-end+%26+Front-end;Sempre+disposto+a+aprender+novos+desafios!" alt="Typing SVG" />
+  </a>
+</div>
 
-Sou um entusiasta da tecnologia que transita entre o software e o hardware. Adoro explorar como as coisas funcionam, desde a escrita de algoritmos até a **montagem de PCs**. Sou movido pela curiosidade e estou **sempre disposto a aprender** novas ferramentas e enfrentar novos desafios! 🚀
+<br>
+
+Sou um entusiasta da tecnologia que transita entre o software e o hardware. Adoro explorar como as coisas funcionam, desde a escrita de algoritmos até a **montagem de PCs**. Sou movido pela curiosidade e estou **sempre disposto a aprender** novas ferramentas e enfrentar novos desafios! 
+
+---
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente desenvolvendo minhas habilidades em **Java**, **Python**, **HTML**, **CSS** e bancos de dados com **MySQL**.
+- 🔭 Atualmente desenvolvendo minhas habilidades em **Java, Python, HTML, CSS** e bancos de dados com **MySQL**.
 - 🔧 Tenho uma paixão especial por **hardware e montagem de computadores** (se precisar de dicas para um setup novo, é só falar!).
 - 🌱 Focado no aprendizado contínuo e em aplicar boas práticas nos meus projetos.
-- 💬 Pergunte-me sobre: tecnologia, desenvolvimento ou qual peça escolher para o seu PC!
+- 💬 Pergunte-me sobre: tecnologia, desenvolvimento de software ou qual peça escolher para o seu PC!
 
-### 🌐 Como me encontrar
-
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/orlando-brito-2a43043ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:orlandojuniorbritodasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
+---
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<div align="center">
+  <br>
+  <!-- Usando a biblioteca Skill Icons para um visual mais moderno e padronizado -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,linux,git" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ziuspion&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziuspion&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg" width="100%">
+  </picture>
+  
+  <br>
+  
+  <picture>
+    <img src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/main/profile-3d-contrib/profile-season-animate.svg?v=1" alt="GitHub Profile 3D" width="80%" />
+  </picture>
+</div>
+
+---
+
+### 🌐 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/orlando-brito-2a43043ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:orlandojuniorbritodasilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake-dark.svg">
