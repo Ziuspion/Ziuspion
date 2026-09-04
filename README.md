@@ -48,6 +48,16 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
 
 ---
 
+### 🚀 Meus Projetos
+
+Aqui estão alguns dos repositórios onde estou aplicando meus conhecimentos. Fique à vontade para conferir o código:
+
+- 🧬 **[BIO](https://github.com/Ziuspion/BIO)** - *Adicione uma breve descrição sobre este projeto aqui.*
+- 💻 **[Atividade DSI1 (14/08/2026)](https://github.com/Ziuspion/DSI1_14-08-2026-atividade-)** - *Adicione uma breve descrição sobre o que foi desenvolvido nesta atividade.*
+- 💻 **[Atividade DSI1 (12/08/2026)](https://github.com/Ziuspion/DSI1_12-08-2026-Atividade)** - *Adicione uma breve descrição sobre o que foi desenvolvido nesta atividade.*
+
+---
+
 ### 🌐 Como me encontrar
 
 <div align="center">
