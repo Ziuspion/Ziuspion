@@ -27,3 +27,8 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg">
+</picture>
