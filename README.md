@@ -32,17 +32,6 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
   </a>
 </div>
 
----
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziuspion&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziuspion&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" height="160" />
-</div>
-
-<br>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake-dark.svg">
