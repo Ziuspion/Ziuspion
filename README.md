@@ -69,10 +69,3 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg">
-</picture>
-  <picture>
-   <img src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/main/profile-3d-contrib/profile-season-animate.svg?v=1" alt="GitHub Profile 3D" />
