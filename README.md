@@ -33,4 +33,6 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/output/snake.svg">
 </picture>
   <picture>
-   ![](https://raw.githubusercontent.com/Ziuspion/Ziuspion/main/profile-3d-contrib/profile-season-animate.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+</p>
