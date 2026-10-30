@@ -40,7 +40,6 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
   </picture>
   
   <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziuspion)](https://github.com/anuraghazra/github-readme-stats)
   <picture>
     <img src="https://raw.githubusercontent.com/Ziuspion/Ziuspion/main/profile-3d-contrib/profile-season-animate.svg?v=1" alt="GitHub Profile 3D" width="80%" />
   </picture>
